@@ -1,4 +1,7 @@
+
 # SLIM 4 - API SKELETON
+
+Este señor M Bonfietti es Un Crack, 
 
 Useful skeleton for RESTful API development, using [Slim PHP micro framework](https://www.slimframework.com).
 
